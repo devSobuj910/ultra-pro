@@ -1,10 +1,12 @@
 import React from "react";
 
+import img from "../../images/user.png";
+
 const User = () => {
   return (
     <div>
       <div>
-        <img src="" alt="" />
+        <img src={img} alt="" />
         <div className="user-name">
           <h5>sobuj hasan</h5>
           <p>dhaka,bangladesh</p>

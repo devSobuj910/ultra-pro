@@ -1,8 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
 import Header from "./component/Headers/Header";
 import Catagory from "./component/Catagory/Catagory";
-import User from "./component/Uder/User";
+import User from "./component/User/User";
+import Brek from "./component/brek-time/Brek";
+import Details from "./component/Ex-detils/Details";
 
 function App() {
   return (
@@ -14,6 +15,8 @@ function App() {
         </div>
         <div className="sidbar bg-danger col-3 ">
           <User></User>
+          <Brek></Brek>
+          <Details></Details>
         </div>
       </div>
     </div>
