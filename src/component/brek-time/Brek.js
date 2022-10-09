@@ -1,15 +1,11 @@
 import React from "react";
 
-const Brek = () => {
+const Brek = (props) => {
+  const { time } = props.time;
+
   return (
     <div>
-      <h4>add a break</h4>
-      <div className="d-flex ">
-        <li>10s</li>
-        <li>19s</li>
-        <li>13s</li>
-        <li>20s</li>
-      </div>
+      <li>{time}</li>
     </div>
   );
 };

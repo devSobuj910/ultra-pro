@@ -14,20 +14,11 @@ const User = () => {
       </div>
 
       <div className="user-info">
-        <p>
-          weight: <h4>76</h4> <span>kg</span>
-        </p>
+        <p>weight:</p>
 
-        <p>
-          Hight:
-          <h4>5.8 </h4>
-          <span>inc</span>
-        </p>
+        <p>Hight:</p>
 
-        <p>
-          age: <h4>21</h4>
-          <span>years</span>
-        </p>
+        <p></p>
       </div>
     </div>
   );
