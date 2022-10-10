@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Endurance",
+    "age": "12-13",
+    "time": "120s",
+    "img": "https://cdn.mos.cms.futurecdn.net/cH7Cvw7TXyYKHniHJeTYem-320-80.jpg",
+    "text": "Endurance is the ability of an organism to exert itself"
+  },
+  {
+    "name": "Strength.",
+
+    "age": "17-20",
+    "time": "240s",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRKBnWqrxa-pXTHAT1ND68uJyG5uaaCNvMQXp_XSyET3L7F394wKl9PjK5FAHCKsnHgdg&usqp=CAU",
+
+    "text": "strength and stamina to take the lead and win the gold med"
+  },
+
+  {
+    "name": "Balance.",
+    "age": "20-23",
+    "time": "240s",
+    "img": "https://cdn.muscleandstrength.com/sites/default/files/field/image/workout/power-training-workout.jpg",
+    "text": " Balance training goes hand-in-hand with strength training."
+  },
+  {
+    "name": "Squats",
+    "age": "15-20",
+    "time": "70s",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tpgYP0v7_CB9j-ZSfuchFctSKxDAZRSpoTeb0APfxy6ohaVHz-GfbrqcUfcBN3_imkM&usqp=CAU",
+    "text": "squats are such a good exercise for burning body"
+  },
+  {
+    "name": "Flexibility.",
+    "age": "21-22",
+    "time": "100s",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMolPJks2PZ9vs1-FZqDWXxMqDwvWkXnd0xLmo4N_u8yXnKP8zZwi2ntK3XS9zBUWS-00&usqp=CAU",
+    "text": " Flexibility allows your body to move through a range of motion."
+  },
+  {
+    "name": "Burpees",
+    "age": "25-27",
+    "time": "30s",
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/buff-male-athlete-doing-core-bag-squats-exercise-in-royalty-free-image-1622104996.jpg?crop=1.00xw:1.00xh;0,0&resize=640:*",
+    "text": "With burpees, the focus is on a full-body calisthenics"
+  }
+]
