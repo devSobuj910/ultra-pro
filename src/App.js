@@ -1,12 +1,12 @@
-import "./App.css";
-import Header from "./Components/Header/Header";
-import Layot from "./Components/Layot/Layot";
+
+import './App.css';
+import Grid from './Components/Grid/Grid';
 
 function App() {
   return (
-    <div className="App">
-      <Header></Header>
-      <Layot></Layot>
+    <div >
+      <Grid></Grid>
+      
     </div>
   );
 }

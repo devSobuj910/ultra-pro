@@ -1,8 +1,9 @@
 import React from "react";
-import "./Main.css";
+import "./Cart.css";
 
-const Main = (props) => {
-  const { name, img, text, time, age } = props.card;
+const Cart = (props) => {
+  let { setTimeForWorkOut } = props;
+  let { img, time, name, age, text } = props.gym;
   return (
     <div className="col">
       <div className="card">
@@ -12,9 +13,12 @@ const Main = (props) => {
           <p className="card-text">{text}</p>
           <p>For Age: {age}</p>
           <p>
-            <span>Time required : {time}s</span>
+            <span>Time : {time}s</span>
           </p>
-          <button className="w-100 bg-warning fw-bold p-2 border-0">
+          <button
+            onClick={(event) => setTimeForWorkOut(event, props.gym)}
+            className="w-100 bg-warning fw-bold p-2 border-0"
+          >
             Add to list
           </button>
         </div>
@@ -23,4 +27,4 @@ const Main = (props) => {
   );
 };
 
-export default Main;
+export default Cart;

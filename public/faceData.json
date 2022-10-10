@@ -1,47 +1,58 @@
 [
   {
-    "name": "Endurance",
-    "age": "12-13",
-    "time": "120s",
-    "img": "https://cdn.mos.cms.futurecdn.net/cH7Cvw7TXyYKHniHJeTYem-320-80.jpg",
-    "text": "Endurance is the ability of an organism to exert itself"
+    "name": "Endurance.",
+    "id": "0",
+    "age": "20-21",
+    "time": 120,
+    "text": "A squat is a strength exercise in which the traine",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuPdzTk3almjrh49yg2t1PWvnc1pIVFKDuAA&usqp=CAU"
   },
   {
-    "name": "Strength.",
-
-    "age": "17-20",
-    "time": "240s",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRKBnWqrxa-pXTHAT1ND68uJyG5uaaCNvMQXp_XSyET3L7F394wKl9PjK5FAHCKsnHgdg&usqp=CAU",
-
-    "text": "strength and stamina to take the lead and win the gold med"
-  },
-
-  {
-    "name": "Balance.",
-    "age": "20-23",
-    "time": "240s",
-    "img": "https://cdn.muscleandstrength.com/sites/default/files/field/image/workout/power-training-workout.jpg",
-    "text": " Balance training goes hand-in-hand with strength training."
-  },
-  {
+    "id": "1",
     "name": "Squats",
-    "age": "15-20",
-    "time": "70s",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tpgYP0v7_CB9j-ZSfuchFctSKxDAZRSpoTeb0APfxy6ohaVHz-GfbrqcUfcBN3_imkM&usqp=CAU",
-    "text": "squats are such a good exercise for burning body"
+    "age": "12-19",
+    "time": 110,
+    "text": "Everything you need to know about how to do squats",
+    "img": "https://image.shutterstock.com/image-photo/man-using-press-machine-fitness-600w-714092962.jpg"
   },
+
   {
-    "name": "Flexibility.",
-    "age": "21-22",
-    "time": "100s",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMolPJks2PZ9vs1-FZqDWXxMqDwvWkXnd0xLmo4N_u8yXnKP8zZwi2ntK3XS9zBUWS-00&usqp=CAU",
-    "text": " Flexibility allows your body to move through a range of motion."
+    "id": "2",
+    "name": "Abdominal",
+    "img": "https://image.shutterstock.com/image-photo/healthy-man-exercising-abdominals-on-600w-325783649.jpg",
+    "price": 3000,
+    "text": "It’s surprising how many people miss the abdominal muscles ",
+    "time": 30,
+    "age": "20-25"
   },
+
   {
-    "name": "Burpees",
-    "age": "25-27",
-    "time": "30s",
-    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/buff-male-athlete-doing-core-bag-squats-exercise-in-royalty-free-image-1622104996.jpg?crop=1.00xw:1.00xh;0,0&resize=640:*",
-    "text": "With burpees, the focus is on a full-body calisthenics"
+    "id": "3",
+    "name": "Push Up",
+    "img": "https://image.shutterstock.com/image-photo/muscle-man-dmaking-push-ups-600w-153150755.jpg",
+    "price": 5000,
+    "text": "Traditional pushups are beneficial for building upper",
+    "time": 30,
+    "age": "20-25"
+  },
+
+  {
+    "id": "4",
+    "name": "Leg Press",
+    "img": "https://image.shutterstock.com/image-photo/man-using-press-machine-fitness-600w-714092962.jpg",
+    "price": 9000,
+    "text": "The leg press is a popular piece of gym equipment that .",
+    "time": 30,
+    "age": "20-25"
+  },
+
+  {
+    "id": "5",
+    "name": "Pull Down",
+    "img": "https://image.shutterstock.com/image-photo/shoulder-pull-down-machine-fitness-600w-658289782.jpg",
+    "price": 6000,
+    "text": "Sit comfortably on the pulldown seat, with your feet  if necessary. ",
+    "time": 30,
+    "age": "20-25"
   }
 ]
